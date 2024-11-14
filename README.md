@@ -1,5 +1,5 @@
-# COP2334-1-Module-8-Assignment
-This is a GitHub repository link for the C++ Programming Assignment from Module 8.
+# COP2334-1-Module-10-Assignment
+This is a GitHub repository link for the C++ Programming Assignment from Module 10.
 
 // This program is used to count the number of characters in a string like a sentence, a paragraph, or a word.
 
